@@ -1,2 +1,0 @@
-# ErnestIglesias
-projecte
